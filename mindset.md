@@ -11,4 +11,4 @@ con mentalidad de crecimiento creen que pueden mejorar y aprender con el tiempo.
 2. El esfuerzo constante es la clave del éxito.
 3. Los errores son parte del aprendizaje.
 
-[***Enlace al Readme***](./README.md)
+🏠 [***Regresar***](./README.md)
