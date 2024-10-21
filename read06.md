@@ -20,3 +20,5 @@
 - ***`ls -a RutaDirectorio`*** Nos listará todos los archivos y subdirectorios ***visibles y ocultos*** contenidos en el ***la RutaDirectorio dada***.
 
   Simpre y cuando tengamos los permisos necesarios.
+
+[Regresar al README](./README.md)
