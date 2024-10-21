@@ -19,3 +19,4 @@ Mi nombre es Ysrael y estoy emocionado por conectar con otros desarrolladores, c
 ## Mis notas de lectura:
 
 - [Mindset](./mindset.md)
+- [read06.md](./read06.md)
