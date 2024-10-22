@@ -1,6 +1,6 @@
 # Ysrael Rojas Rojas
 
-![Banner](./github-header-image-2.png)
+![Banner](./images/github-header-image-2.png)
 
 Mi nombre es Ysrael y estoy emocionado por conectar con otros desarrolladores, compartir conocimientos y contribuir a proyectos interesantes
 
