@@ -21,4 +21,4 @@ Mi nombre es Ysrael y estoy emocionado por conectar con otros desarrolladores, c
 ✔️ [Mindset](./mindset.md)<br>
 ✔️ [read06](./read06.md)<br>
 ✔️ [lab06](./lab06.md)<br>
-✔️ [read07](./read06.md)
+✔️ [read07](./read07.md)
