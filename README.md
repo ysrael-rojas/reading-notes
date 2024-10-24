@@ -18,19 +18,19 @@ Mi nombre es Ysrael y estoy emocionado por conectar con otros desarrolladores, c
 
 ## 📝 Notas de lectura del Code 101
 
-| TITULO  | LINK                                           | ESTADO       |
-|---------|------------------------------------------------|--------------|
-| Read 01 | -                                              | 🕗 PENDIENTE |
-| Read 02 | [HTML](./read01.md)                            | 🕗 PENDIENTE |
-| Read 03 | [Intro a Css](./read03.md)                     | 🕗 PENDIENTE |
-| Read 04 | [IA Generativa](./read04.md)                   | 🕗 PENDIENTE |
-| Read 05 | [Markdown y Web Publishing](./read05.md)       | 🕗 PENDIENTE |
-| Read 06 | [Developer Tools](./read06.md)                 |       ✔️     |
-| Read 07 | [Control de Versiones](./read07.md)            |       ✔️     |
-| Read 08 | [Wireframing](./read08.md)                     | 🕗 PENDIENTE |
-| Read 09 | [Introducción a Javascript](./read09.md)       | 🕗 PENDIENTE |
-| Read 10 | [Arreglos y Control de Flujo](./read10.md)     | 🕗 PENDIENTE |
-| Read 11 | [Introducción al DOM y Proyectos](./read11.md) | 🕗 PENDIENTE |
+| TITULO  | LINK                                               | ESTADO       |
+|---------|----------------------------------------------------|--------------|
+| Read 01 | [contenido Markdown con IA](./101/read01.md)       |       ✔️     |
+| Read 02 | [HTML](./101/read02.md)                            | 🕗 PENDIENTE |
+| Read 03 | [Intro a Css](./101/read03.md)                     | 🕗 PENDIENTE |
+| Read 04 | [IA Generativa](./101/read04.md)                   | 🕗 PENDIENTE |
+| Read 05 | [Markdown y Web Publishing](./101/read05.md)       | 🕗 PENDIENTE |
+| Read 06 | [Developer Tools](./101/read06.md)                 |       ✔️     |
+| Read 07 | [Control de Versiones](./101/read07.md)            |       ✔️     |
+| Read 08 | [Wireframing](./101/read08.md)                     | 🕗 PENDIENTE |
+| Read 09 | [Introducción a Javascript](./101/read09.md)       | 🕗 PENDIENTE |
+| Read 10 | [Arreglos y Control de Flujo](./101/read10.md)     | 🕗 PENDIENTE |
+| Read 11 | [Introducción al DOM y Proyectos](./101/read11.md) | 🕗 PENDIENTE |
 
 ## 📝 Notas de lectura del Code 201
 
