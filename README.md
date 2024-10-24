@@ -16,7 +16,42 @@ Mi nombre es Ysrael y estoy emocionado por conectar con otros desarrolladores, c
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/ysrael.rojasrojas)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/ysraelrojas)
 
-## 📝 Mis notas de lectura
+## 📝 Notas de lectura del Code 101
+
+| TITULO  | LINK                                           | ESTADO       |   |   |
+|---------|------------------------------------------------|--------------|---|---|
+| Read 01 | -                                              | 🕗 PENDIENTE |   |   |
+| Read 02 | [HTML](./read01.md)                            | 🕗 PENDIENTE |   |   |
+| Read 03 | [Intro a Css](./read03.md)                     | 🕗 PENDIENTE |   |   |
+| Read 04 | [IA Generativa](./read04.md)                   | 🕗 PENDIENTE |   |   |
+| Read 05 | [Markdown y Web Publishing](./read05.md)       | 🕗 PENDIENTE |   |   |
+| Read 06 | [Developer Tools](./read06.md)                 |       ✔️     |   |   |
+| Read 07 | [Control de Versiones](./read07.md)            |       ✔️     |   |   |
+| Read 08 | [Wireframing](./read08.md)                     | 🕗 PENDIENTE |   |   |
+| Read 09 | [Introducción a Javascript](./read09.md)       | 🕗 PENDIENTE |   |   |
+| Read 10 | [Arreglos y Control de Flujo](./read10.md)     | 🕗 PENDIENTE |   |   |
+| Read 11 | [Introducción al DOM y Proyectos](./read11.md) | 🕗 PENDIENTE |   |   |
+
+## 📝 Notas de lectura del Code 201
+
+| TITULO  | LINK                                           | ESTADO       |   |   |
+|---------|------------------------------------------------|--------------|---|---|
+| Read 01 | -                                              | 🕗 PENDIENTE |   |   |
+| Read 02 | -                                              | 🕗 PENDIENTE |   |   |
+| Read 03 | -                                              | 🕗 PENDIENTE |   |   |
+| Read 04 | -                                              | 🕗 PENDIENTE |   |   |
+| Read 05 | -                                              | 🕗 PENDIENTE |   |   |
+| Read 06 | -                                              | 🕗 PENDIENTE |   |   |
+| Read 07 | -                                              | 🕗 PENDIENTE |   |   |
+| Read 08 | -                                              | 🕗 PENDIENTE |   |   |
+| Read 09 | -                                              | 🕗 PENDIENTE |   |   |
+| Read 10 | -                                              | 🕗 PENDIENTE |   |   |
+| Read 11 | -                                              | 🕗 PENDIENTE |   |   |
+| Read 12 | -                                              | 🕗 PENDIENTE |   |   |
+| Read 13 | -                                              | 🕗 PENDIENTE |   |   |
+| Read 14 | -                                              | 🕗 PENDIENTE |   |   |
+| Read 15 | -                                              | 🕗 PENDIENTE |   |   |
+| Read 16 | -                                              | 🕗 PENDIENTE |   |   |
 
 ✔️ [Mindset](./mindset.md) \
 ✔️ [read06](./read06.md) \
