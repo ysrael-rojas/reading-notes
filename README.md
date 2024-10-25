@@ -27,7 +27,7 @@ Mi nombre es Ysrael y estoy emocionado por conectar con otros desarrolladores, c
 | Read 05 | [Markdown y Web Publishing](./101/read05.md)       | 🕗 PENDIENTE |
 | Read 06 | [Developer Tools](./101/read06.md)                 |       ✔️     |
 | Read 07 | [Control de Versiones](./101/read07.md)            |       ✔️     |
-| Read 08 | [Wireframing](./101/read08.md)                     | 🕗 PENDIENTE |
+| Read 08 | [Wireframing](./101/read08.md)                     |       ✔️     |
 | Read 09 | [Introducción a Javascript](./101/read09.md)       | 🕗 PENDIENTE |
 | Read 10 | [Arreglos y Control de Flujo](./101/read10.md)     | 🕗 PENDIENTE |
 | Read 11 | [Introducción al DOM y Proyectos](./101/read11.md) | 🕗 PENDIENTE |

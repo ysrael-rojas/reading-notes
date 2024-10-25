@@ -1,5 +1,5 @@
 
-# READ06: LINEA DE COMANDOS EN LA TERMINAL
+# READ06: DEVELOPER TOOLS
 
 ## 1. Qué hacen los siguientes comandos❓
 
@@ -9,7 +9,7 @@
 - ***`mkdir:`*** Para crear uno o varios directorios con sus respectivos permisos.
 - ***`touch:`*** Permite crear un archivo vacio dentro de un directorio especifico.
 
-## 2. Puedes explicar qué sucede en el siguiente escenario si ingresas estos comandos y argumentos en la línea de comandos❓ (Los argumentos son instrucciones adicionales dadas a un comando).
+## 2. Puedes explicar qué sucede en el siguiente escenario si ingresas estos comandos y argumentos en la línea de comandos❓ (Los argumentos son instrucciones adicionales dadas a un comando)
 
 - ***`cd projects`*** Navega al directorio ***"projects"***
 - ***`mkdir new-project`*** Crea un nuevo directorio ***"new-project"***
