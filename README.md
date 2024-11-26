@@ -39,7 +39,7 @@ Mi nombre es Ysrael y estoy emocionado por conectar con otros desarrolladores, c
 | Read 01 | -                                                  | 🕗 PENDIENTE |
 | Read 02 | -                                                  | 🕗 PENDIENTE |
 | Read 03 | [Css Layout](./201/read03.md)                      |       ✔️     |
-| Read 04 | -                                                  | 🕗 PENDIENTE |
+| Read 04 | [Librerias Externas](./201/read04.md)              |       ✔️     |
 | Read 05 | -                                                  | 🕗 PENDIENTE |
 | Read 06 | -                                                  | 🕗 PENDIENTE |
 | Read 07 | -                                                  | 🕗 PENDIENTE |
